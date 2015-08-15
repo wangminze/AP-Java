@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+H:\Chapter 1\src\mwang\.metadata\.plugins\org.eclipse.jdt.core
